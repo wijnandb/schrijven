@@ -216,6 +216,7 @@ ZenPen.ui = (function() {
 			wordCountValue = count;
 			wordCounter.className = "word-counter active";
 			updateWordCount();
+            document.getElementById("tooncounter").innerHTML = wordCountValue;
 
 		} else {
 
