@@ -1,18 +1,15 @@
-var defaultTitle = 'This is ZenPen';
+var defaultTitle = '750 woorden per dag';
 var defaultContent = 
 '<p>\
-A minimalist writing zone, where you can block out all distractions and get to what\'s important. The writing!  \
+Ongestoord en zonder afleiding schrijven. Niet nadenken, niet verbeteren, niemand kan het lezen, misschien lees je het zelf niet eens terug.  \
 </p>\
 <p> \
-	To get started, all you need to do is delete this text (seriously, just highlight it and hit delete), and fill the page with your own fantastic words. You can even change the title!  \
+	Om te beginnen, hoef je alleen maar deze tekst te verwijderen (echt, gewoon selecteren en op delete of backspace drukken). Schrijf vervolgens wat je wil. De title kun je ook veranderen.  \
 </p> \
 <p> \
-	You can use <b>bold</b>, <i>italics</i>, <b><i>both</i></b> and <a href="http://zenpen.io"> urls </a> just by highlighting the text and selecting them from the tiny options box that appears above it.\
+	Je kunt <b>vet</b>, <i>schuin</i>, <b><i>allebei</i></b> en <a href="http://brtt.nl/schrijven"> links </a> maken door tekst te selewcteren en uit de opties in de pop-up te kiezen.\
 </p>\
 <blockquote>\
-	Quotes are easy to add too!\
+	Citaten (quotes) kun je ook toevoegen!\
 </blockquote>\
-<p>\
-	For <i>questions</i> and <b>open source info</b>, Click that little question mark at the bottom left of the screen.\
-</p>\
-<p>Happy Typing! ~ <b>Tim Holman (@twholman)</b></p>';
+<p>;
