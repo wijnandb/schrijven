@@ -244,7 +244,7 @@ ZenPen.ui = (function() {
 		} else {
 			wordCounterProgress.className = "progress";
             document.getElementById("tooncounter").innerHTML = wordCount;
-            document.getElementById("percentage").innerHTML = percentageComplete;
+            document.getElementById("percentage").innerHTML = Math.round(percentageComplete * 100) + '%';
 		}
 	}
 
